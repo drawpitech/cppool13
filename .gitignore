@@ -10,7 +10,6 @@ unit_tests_asan
 
 # TA
 main.cpp
-*.txt
 
 # Editors junk
 *~

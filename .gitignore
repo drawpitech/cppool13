@@ -1,0 +1,25 @@
+# Binaries
+*.out
+unit_tests
+unit_tests_asan
+
+# Compilation
+.build/
+*.a
+*.o
+
+# TA
+main.cpp
+*.txt
+
+# Editors junk
+*~
+\#*#
+*.swp
+*.swo
+
+# Reports
+core.*
+*.log
+*.gcda
+*.gcno

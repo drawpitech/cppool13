@@ -60,7 +60,7 @@ class Array
     };
 
    private:
-    std::array<Type, _size> _array;
+    std::array<Type, _size> _array{0};
 };
 
 template <typename Type, std::size_t _size>
